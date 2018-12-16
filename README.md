@@ -18,9 +18,6 @@
 
 ```diff
 - rednkgnkdgk jglkjdgjlj 
-+ green
-! orange
-# gray
 ```
 
 </h2>
