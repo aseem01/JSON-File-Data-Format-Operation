@@ -8,8 +8,6 @@
     <h1>File Create</h1>
     <p>We can create file in randomly file name according to current time with prefix word.</p>
     
-    
-    
     <h2>
 
 ```diff
