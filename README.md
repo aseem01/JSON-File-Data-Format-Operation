@@ -13,9 +13,14 @@
     ```
     </h5>
     <h2>
+
 ```diff
-- red  
+- red
++ green
+! orange
+# gray
 ```
+
 </h2>
     <span style=“color:red;”> text </span>
   </body>
