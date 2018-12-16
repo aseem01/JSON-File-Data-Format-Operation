@@ -14,6 +14,6 @@
     <h1>File Read</h1>
     <p>I have used json-simple-1.1 jar for JSONParser class</p>
     <p>Jar Link : <a href="http://www.java2s.com/Code/Jar/j/Downloadjavajsonjar.htm">Download</p>
-    <p>Jar Link : <a href="http://www.java2s.com/Code/Jar/j/Downloadjavajsonjar.htm">Download</p>
+    
   </body>
   </html>
