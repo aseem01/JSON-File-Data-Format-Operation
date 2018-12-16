@@ -12,13 +12,10 @@
     - I face problem to create file randomly yyyy-MM-dd-HH:mm:ss format.This format file name is allow so you should avoid this format otherwise you kill your important time and patience.You can use yyyy_MM_dd_HH_mm_ss this format.
     ```
     </h5>
-   
     <h2>
-
 ```diff
-- rednkgnkdgk jglkjdgjlj 
+- I face problem to create file randomly yyyy-MM-dd-HH:mm:ss format.This format file name is allow so you should avoid this format otherwise you kill your important time and patience.You can use yyyy_MM_dd_HH_mm_ss this format.
 ```
-
 </h2>
   </body>
   </html>
